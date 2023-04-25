@@ -1,6 +1,8 @@
 ﻿// Random_Numbers.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
 
+//小教2203  罗** 608
+
 #include <iostream>
 #include <ctime>
 #include <cstring>
